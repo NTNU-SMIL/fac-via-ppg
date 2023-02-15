@@ -65,8 +65,6 @@ dependencies:
     - pillow==9.4.0
     - pooch==1.6.0
     - protobuf==3.19.3
-    - pyclif==0.3
-    - pykaldi==0.2.2
     - pyparsing==3.0.9
     - regex==2022.10.31
     - resampy==0.4.2
